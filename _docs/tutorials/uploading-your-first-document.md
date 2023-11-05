@@ -1,5 +1,5 @@
 ---
-title: Uploading your first document
+title: Uploading documents
 navigation.priority: 517
 ---
 

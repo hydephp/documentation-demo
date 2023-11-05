@@ -38,7 +38,7 @@ return [
     |
     */
 
-    'name' => env('SITE_NAME', 'DocuVibe'),
+    'name' => env('SITE_NAME', 'Lorem Documentum'),
 
     /*
     |--------------------------------------------------------------------------

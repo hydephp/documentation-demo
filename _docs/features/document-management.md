@@ -1,5 +1,5 @@
 ---
-title: Document management
+title: File management
 navigation.priority: 412
 ---
 

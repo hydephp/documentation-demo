@@ -25,10 +25,10 @@ return [
 
     'sidebar' => [
         // The title in the sidebar header
-        'header' => env('SITE_NAME', 'DocuVibe').' Docs',
+        'header' => env('SITE_NAME', 'Lorem Documentum'),
 
         // When using a grouped sidebar, should the groups be collapsible?
-        'collapsible' => true,
+        'collapsible' => false,
 
         // Should the sidebar footer be shown?
         'footer' => true,

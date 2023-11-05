@@ -1,6 +1,6 @@
 ---
 title: Version control
-navigation.priority: 416
+navigation.priority: 410
 ---
 
 # Version control

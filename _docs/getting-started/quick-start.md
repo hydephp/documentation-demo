@@ -1,6 +1,6 @@
 ---
 title: Quick start
-navigation.priority: 103
+navigation.priority: 101
 ---
 
 # Quick start

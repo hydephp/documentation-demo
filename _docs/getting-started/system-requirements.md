@@ -1,6 +1,6 @@
 ---
 title: System requirements
-navigation.priority: 101
+navigation.priority: 103
 ---
 
 # System requirements

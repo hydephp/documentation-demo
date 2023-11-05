@@ -1,6 +1,6 @@
 ---
 title: Sharing documents
-navigation.priority: 520
+navigation.priority: 515
 ---
 
 # Sharing documents

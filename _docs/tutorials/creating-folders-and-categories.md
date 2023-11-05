@@ -1,5 +1,5 @@
 ---
-title: Creating folders and categories
+title: Creating new categories
 navigation.priority: 518
 ---
 
