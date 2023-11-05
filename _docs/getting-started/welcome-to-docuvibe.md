@@ -31,19 +31,19 @@ While you're here, why not try out some of the features the of HydePHP documenta
 
 If you're new to DocuVibe, start with the basics:
 
-- [Welcome to DocuVibe](/getting-started/welcome)
-- [Installation Guide](/getting-started/installation)
-- [Quick Start](/getting-started/quick-start)
-- [System Requirements](/getting-started/system-requirements)
+- [Welcome to DocuVibe](welcome-to-docuvibe)
+- [Installation Guide](installation-guide)
+- [Quick Start](quick-start)
+- [System Requirements](system-requirements)
 
 ## User Guide
 
 Learn how to make the most of DocuVibe:
 
-- [User Account Setup](/user-guide/account-setup)
-- [Navigating the Dashboard](/user-guide/dashboard)
-- [Profile and Preferences](/user-guide/profile-preferences)
-- [Accessing Help and Support](/user-guide/help-support)
+- [User Account Setup](user-account-setup)
+- [Navigating the Dashboard](navigating-the-dashboard)
+- [Profile and Preferences](profile-and-preferences)
+- [Accessing Help and Support](accessing-help-and-support)
 
 ---
 
