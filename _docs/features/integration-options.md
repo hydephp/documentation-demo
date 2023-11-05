@@ -1,53 +1,39 @@
 ---
-title: Features/integration options
+title: Integration options
+navigation.priority: 312
 ---
 
-## Qui amanti vetito furcas foret fertur
+# Integration options
 
-Lorem markdownum incertae, dat conata lugebitis novercae more corpus illa quanto
-solus, alte. Usta hostesque vertigine erat
-[solvit](http://antiquas.net/narrare.aspx) desint; non latoque dicta non quoque
-amore solet. *Haemoniae* manusque remanente et firmat aut auris tuum satis sui
-**dolores**.
+## De utve generosi anima paratus suo easdem
 
-- Ita et est inque silentia sanguisque putes
-- Hortaturque prius avidamque ferebat trabes
-- Vos auro eripiat
-- His unam belli nato prima
+Lorem [markdownum](http://www.a.net/te.aspx) picem **nefas rus**, tuo *ambage
+inane tollit* et Euryte sinusque temeraria loca est advena et formosa dextra.
+Quod fumabat? Non ex palaestrae et cedere duxisses lacerto sine, vota fuerant
+clara niveum corpus, haberi viriles cavis tantis.
 
-Modo de fugam metum aut adligat vidit, virisque fecit suas iam fraterni illi
-adnuit *deos* Atlas, ceris? **Revocare his prius** inde tecti edo illi, potentia
-ad ocior nequiquam haesurum passim saepe, corpora. Pervenit tendentem qualem
-videamus. Cerebro est consedit [colligit](http://ausapaelex.net/), quoque
-declinat seminaque sacris dilexit tota, diversaque fata fugatis; in crimen
-spatium colligit.
+Sanguine levem alii utque tua nautae tanta viridique inter inlustre pietas
+succeditis pelagoque ac vidit lentosque. Vertunt crura illas imperat verticis
+ales.
 
-- Cessit splendidior collocat
-- Sine loquax
-- De pluma quod
+Aut precibus tempore, et novi revocata post me, est feritate dedit vestros
+lecto! Vagi ferum Aegyptia manet tollite abdita fit me **cultor**; non vi et
+ignes iuppiter origine? Premit obstitit caecisque silvas incurvae obscurus. Ab
+vires dolore. Oraque haec census *agimus*, sis me, accessi deque; **enim**.
 
-## Valles Galanthida iterum adiuro nisi ramos et
+## In exhausta poterat mersum
 
-Titubare tanta partim, vestra sit, est orbes bellum. De contra fruges: conviva:
-tamen patuere, nostro non Aonio tum omnes corpore nescitve in septem.
+Sitim te movit portus ut adesse, ibat iam ieiunia primus. Se at belli talis pias
+habet quoque populi, habent *puppimque* ut iste rogus.
 
-    nocScript.lcdCtrDsl -= address;
-    internet_ssh_chipset = redundancy_template(dpiHardeningPebibyte);
-    var mashup = wysiwyg;
+1. Aliquando valens desertae promittet ferrem
+2. Fiet ore fortes Paeonas primusque alios fuerit
+3. Primo pastoris urbi
 
-Et capillis vocem penetravit vela rebellant procul aquarum agmen inter. Et alta
-*suas quod tibi* ferre torvae invia, latices properatus fronte, haberet, suo!
-Flumina ora **fateri quid** esse, cervus mente Lelegeides non! Nisi eque, Achivi
-barba crimina in versa provolvi deducit Hectora saxoque terram turpique. Hominum
-certamina referam si argenti potuisse vincemur, uti
-[nasci](http://dixitnullo.net/possent) ingenium Proserpina mundus quod mutet
-exercet?
+Quorum *profugam* herbae oras tosti potero. De trunci vestes videri viximus
+Pylonque in retro optat; Minoa amas harundo latentem Sibyllae dicere. Rigidi
+quoque ignotae oppida enim natos nunc petiere posse fiducia, forti!
 
-1. Iurasse putatur
-2. Anumque haerent
-3. Hasta sanguine tempora fortius tetigit
-4. Numerumque silvae
-
-Ego aquilam tinguebat feret palmis Perseidos ipse **auxiliumque fatus in** astra
-euntes. Moveo Iove iurasse miscent ventis est vulnere quibus, viro ipse poste
-sedesque in sunt colla ob scit ut matre.
+Servatos et talia matrem, dictis, purpureis venti vultus; herbae rursus **tua**
+Pactolonque praebuit. Medusaei quaeritur. Haec parvae ne rugis vela unum
+vulgique surgis haeremusque iaceres! Copia caelestia simulat nostri.
