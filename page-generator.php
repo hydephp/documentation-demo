@@ -38,20 +38,32 @@ contact-us/contact-information
 terms-and-privacy/terms-of-service
 terms-and-privacy/privacy-policy
 TXT;
+$force = true;
 echo "Generating pages...\n";
 $files = explode("\n", $files);
+
+$sidebarPriorities = [];
 foreach ($files as $file) {
+    $sidebarGroup = explode('/', $file)[0];
+    $sidebarPriorities[$sidebarGroup] = count($sidebarPriorities);
+}
+
+foreach ($files as $count => $file) {
     echo '.';
+    $sidebarGroup = explode('/', $file)[0];
+    $priority = ($sidebarPriorities[$sidebarGroup] * 100) + $count;
+
     $file = trim($file);
     $path = __DIR__ . '/_docs/' . $file . '.md';
-    if (!file_exists($path)) {
+    if (!file_exists($path) || $force) {
         $dir = dirname($path);
         if (!is_dir($dir)) {
             mkdir($dir, recursive: true);
         }
-        $title = str_replace('-', ' ', $file);
+        $title = str_replace('-', ' ', basename($file));
         $title = ucfirst($title);
         $title = str_replace('docuvibe', 'DocuVibe', $title);
+
         $markdown = file_get_contents('https://jaspervdj.be/lorem-markdownum/markdown.txt');
         // Remove first two lines
         $markdown = explode("\n", $markdown);
@@ -61,8 +73,9 @@ foreach ($files as $file) {
         $data = <<<YML
 ---
 title: $title
+navigation.priority: $priority
 ---
-YML . "\n\n". $markdown;
+YML . "\n\n# $title\n\n". $markdown;
         file_put_contents($path, $data);
     }
 }
