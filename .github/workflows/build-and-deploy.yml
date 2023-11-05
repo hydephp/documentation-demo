@@ -5,6 +5,7 @@ on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: https://hydephp.github.io/documentation-demo
     permissions:
       contents: read
       pages: write
