@@ -32,9 +32,9 @@ While you're here, why not try out some of the features the of HydePHP documenta
 If you're new to DocuVibe, start with the basics:
 
 - [Welcome to DocuVibe](welcome-to-docuvibe)
+- [System Requirements](system-requirements)
 - [Installation Guide](installation-guide)
 - [Quick Start](quick-start)
-- [System Requirements](system-requirements)
 
 ## User Guide
 

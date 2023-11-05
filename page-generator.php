@@ -1,46 +1,46 @@
 <?php
 
-$files = <<<'TXT'
-getting-started/welcome-to-docuvibe
-getting-started/installation-guide
-getting-started/quick-start
-getting-started/system-requirements
-user-guide/user-account-setup
-user-guide/navigating-the-dashboard
-user-guide/profile-and-preferences
-user-guide/accessing-help-and-support
-features/document-management
-features/version-control
-features/collaboration-tools
-features/search-and-filtering
-features/integration-options
-tutorials/uploading-your-first-document
-tutorials/creating-folders-and-categories
-tutorials/sharing-documents
-tutorials/advanced-search-techniques
-admin-guide/user-management
-admin-guide/permissions-and-security
-admin-guide/system-configuration
-admin-guide/backup-and-restore
-api-documentation/api-overview
-api-documentation/authentication
-api-documentation/api-endpoints
-api-documentation/examples-and-use-cases
-troubleshooting/common-issues-and-solutions
-troubleshooting/error-codes
-troubleshooting/contacting-support
-release-notes/version-history
-release-notes/what-is-new-in-docuvibe
-faq/frequently-asked-questions
-faq/glossary-of-terms
-contact-us/support-and-feedback
-contact-us/contact-information
-terms-and-privacy/terms-of-service
-terms-and-privacy/privacy-policy
-TXT;
+$files = [
+    'getting-started/welcome-to-docuvibe',
+    'getting-started/system-requirements',
+    'getting-started/installation-guide',
+    'getting-started/quick-start',
+    'admin-guide/system-configuration',
+    'admin-guide/user-management',
+    'admin-guide/backup-and-restore',
+    'admin-guide/permissions-and-security',
+    'user-guide/user-account-setup',
+    'user-guide/profile-and-preferences',
+    'user-guide/navigating-the-dashboard',
+    'user-guide/accessing-help-and-support',
+    'features/document-management',
+    'features/collaboration-tools',
+    'features/integration-options',
+    'features/search-and-filtering',
+    'features/version-control',
+    'tutorials/uploading-your-first-document',
+    'tutorials/creating-folders-and-categories',
+    'tutorials/advanced-search-techniques',
+    'tutorials/sharing-documents',
+//    'api-documentation/api-overview',
+//    'api-documentation/authentication',
+//    'api-documentation/api-endpoints',
+//    'api-documentation/examples-and-use-cases',
+//    'troubleshooting/common-issues-and-solutions',
+//    'troubleshooting/error-codes',
+//    'troubleshooting/contacting-support',
+//    'release-notes/version-history',
+//    'release-notes/what-is-new-in-docuvibe',
+//    'faq/frequently-asked-questions',
+//    'faq/glossary-of-terms',
+//    'contact-us/support-and-feedback',
+//    'contact-us/contact-information',
+//    'terms-and-privacy/terms-of-service',
+//    'terms-and-privacy/privacy-policy',
+];
+
 $force = true;
 echo "Generating pages...\n";
-$files = explode("\n", $files);
 
 $sidebarPriorities = [];
 foreach ($files as $file) {
