@@ -3,70 +3,60 @@ title: Welcome to DocuVibe
 navigation.priority: 100
 ---
 
-# Welcome to DocuVibe
+# Welcome to DocuVibe Documentation
 
-## Fulvis Argolis sedens
+This is a demo website built with [HydePHP](https://hydephp.com), a free and open source static site generator. This entire site is built using just Markdown text that is transformed into a fast and secure website that can be published anywhere.
 
-Lorem markdownum exemplum egreditur devorat anima profundo quoniam cultu maiores
-tutos qui nonne. Per gaudet plausus illa; gramen dixit. De movit, imo in
-appellant triplicis agmen concipiunt *aqua*, mane fides nonne mala, esse.
+## About DocuVibe
 
-Convicia amplexus, futuri. Aures veteres desierant dependent urbe viribus Orneus
-efficiet rerumque limine propior carmina!
+DocuVibe is a revolutionary fake service for organizing, managing, and collaborating on documents and files. With DocuVibe, you can streamline your document management workflow, enhance collaboration within your team, and easily access and share important information. And most importantly, to showcase HydePHP.
 
-1. Posset satam
-2. Tandem a uberior vinci teneri
-3. De tecta
-4. Petiere sitim cetera vulnere utinamque dextrae sub
+## HydePHP Features
 
-## Inde late corpore sit ferarum est sanet
+While you're here, why not try out some of the features the of HydePHP documentation generator?
 
-Erat cuius arva totosque unus, nostro? Satia agros colle mihi perque satis? Ipsa
-illa. *Locutus* plura.
+- **Fully responsive** documentation that looks great on any device
+- **Dark and light mode support** (click the moon/sun icon in the top right corner)
+- **Lightweight search feature** (top right corner on desktop, bottom right corner on mobile)
+- **Automatic sidebar navigation** based on the directory structure
+- **Automatic table of contents** for each page based on the headings
+- **Automatic Torchlight syntax highlighting** for code blocks when specifying an API token
+- **Built in frontend** with automatic templates for documentation, blog posts, pages, and more
+- **Customizable** - you can easily customize your site with both CSS and by modifying the included Blade templates
+- **Write and publish** your documentation using just Markdown text. HydePHP comes preconfigured according to the convention over configuration mindset, allowing you to simply drop Markdown pages into the `_docs` directory to create your site.
 
-Sic *unum* lumina frustra, caelo tua esto, leti umbra dedit mandata. Habet est
-haberet huius dat: in quae concipe iuvenem et *fuit* herbis. Terra manifesta
-facitis propinquae lues Hyperborea quo corpore tamen, ter. Tacitas iussit illis?
+**Ready to try HydePHP?** Visit [hydephp.com/docs](https://hydephp.com/docs) to get started!
 
-    if (configurationDmaHdd) {
-        dlc.image_signature_lcd(client, rootkit);
-        pdf_ebook += crtTraceroute + thyristorToken + market_mnemonic_friend;
-        manet(23);
-    } else {
-        reciprocalPostscript += 1 - microphone;
-    }
-    if (multi) {
-        online_icon -= format;
-    } else {
-        name *= -5;
-        internic(dayMail + bing_truncate, thermistor, manet_file_trackback);
-        dot_meme_rj += -1;
-    }
-    if (hoc_serp_mac(2, analyst_character_del(firmwareCloud) + keylogger(
-            netmaskFontReal, ftp, microcomputerGraphicLock), socket(90, 5) +
-            development_tag_snow + stack_cyberbullying_thin)) {
-        tokenModem = mountTorrent(19);
-        virtual_sink(exbibyteMenuPostscript);
-        disk_cut(nodeBaseShift, northbridgeStationCharacter, exploit_prom + 1);
-    }
+## Getting Started
 
-## Sublato utque
+If you're new to DocuVibe, start with the basics:
 
-Bracchia quies. Frustra quid. Quem nomen praebuerat comitatur, casus misit bis
-nunc laeva, Stabiasque nocentius hunc Aenea dixi. Violentus filia sanguine
-imperat; dicta fata emeritis natae inhibere, et pressa amoris. Vertice licet,
-misit, mea ventisque adeo proque figuram.
+- [Welcome to DocuVibe](/getting-started/welcome)
+- [Installation Guide](/getting-started/installation)
+- [Quick Start](/getting-started/quick-start)
+- [System Requirements](/getting-started/system-requirements)
 
-- Me est gloria umbra gavisa non
-- Ore talia index torumque
-- Voca feris omnes forti haerentem visa
-- Sequentis alter gemit vultum
-- Silvis de dextro inemptum canentis sistitur casta
-- Solis moenibus si inter et pariter nec
+## User Guide
 
-Multa seu occultat dominum demptis cognataque natorum si cuti Palamedes, in.
-Pervidet tutus Nyctimenen undis [proelia
-cervix](http://ausus-intrat.io/se-remittit). Saucia hoc, di coniunx urbe, nec
-tactis, excipit vocant praeterque armat dum inmitem
-[natum](http://terunt.io/longo.html) illis. Ferrumque habuisse et *pontus talia*
-abdiderat.
+Learn how to make the most of DocuVibe:
+
+- [User Account Setup](/user-guide/account-setup)
+- [Navigating the Dashboard](/user-guide/dashboard)
+- [Profile and Preferences](/user-guide/profile-preferences)
+- [Accessing Help and Support](/user-guide/help-support)
+
+---
+
+## Contact Us
+
+If you have any questions or need assistance, please don't hesitate to [contact us](/contact-us).
+
+## About This Site
+
+This demo website is powered by [HydePHP](https://hydephp.com), a free and open-source static site generator. HydePHP allows you to create stunning, fast, and secure websites using just Markdown text. You can easily publish your website anywhere, making it an ideal choice for documentation and more. Need more power? As HydePHP is based on Laravel, you can use the full power of the Blade templating language.
+
+---
+
+**Note:** This is a demo site, and the information provided here is for illustration purposes. The DocuVibe product does not actually exist.
+
+[Terms of Service](/terms-of-service) | [Privacy Policy](/privacy-policy)
