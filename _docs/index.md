@@ -1,6 +1,9 @@
 ---
 title: Welcome to Lorem Documentum
-navigation.priority: 100
+navigation:
+    priority: 100
+    group: Getting Started
+    label: Welcome
 ---
 
 # Welcome to Lorem Documentum
